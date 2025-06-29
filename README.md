@@ -12,6 +12,7 @@ This repo is your control center for experimenting with **autonomous, tool-using
 | Agent | Description |
 |-------|-------------|
 | 🧳 [Travel Planner](Travel_Agent_Langchain.ipynb) | Plan trips using real-time tools for weather, transport, food, hotels, and itinerary |
+| 🧘 [Spiritual Assistant](Spiritual_AI_Agent_Langchain.ipynb) | The agent provides empathetic, wise, and actionable spiritual guidance, including book recommendations, quotes, places, images, and videos tailored to the user's needs.
 
 > 🧩 More agents will be added as experiments evolve!
 

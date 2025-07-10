@@ -12,5 +12,4 @@ markdown
 xhtml2pdf
 PyPDF2
 chromadb==0.4.14
-tiktoken
 pydantic

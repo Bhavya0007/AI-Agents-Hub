@@ -11,5 +11,6 @@ openai
 markdown
 xhtml2pdf
 PyPDF2
+chromadb
 tiktoken
 pydantic

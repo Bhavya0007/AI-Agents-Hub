@@ -10,7 +10,7 @@ from llama_index.core.node_parser import SentenceSplitter
 from llama_index.embeddings.google_genai import GoogleGenAIEmbedding
 warnings.filterwarnings('ignore')
 import os
-GOOGLE_API_KEY = "AIzaSyADmKoZt0vreo7lR73dmPqbYaaTFd0q_ZI"
+GOOGLE_API_KEY = ""
 os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 from crewai import Agent, Task, Crew ,LLM
 
@@ -23,13 +23,13 @@ llm_1 = ChatGoogleGenerativeAI(
     temperature=0,
     max_tokens=None,
     timeout=None,
-    api_key="AIzaSyADmKoZt0vreo7lR73dmPqbYaaTFd0q_ZI",
+    api_key="",
     max_retries=2,
 )
 llm = LLM(
     model="gemini/gemini-2.5-flash",
     temperature=0.7,
-    api_key="AIzaSyADmKoZt0vreo7lR73dmPqbYaaTFd0q_ZI", #
+    api_key="", #
     provider="gemini" # 
 )
 # Build index once for the PDF
@@ -45,7 +45,7 @@ def load_and_index(input_pdf_path: str):
     embed_model = GoogleGenAIEmbedding(
         model_name="text-embedding-004",
         embed_batch_size=200,
-        api_key="AIzaSyADmKoZt0vreo7lR73dmPqbYaaTFd0q_ZI"
+        api_key=""
     )
     Settings.llm = llm_1
     Settings.embed_model = embed_model
@@ -110,7 +110,7 @@ def explanation_tool(query="Explain in simple terms"):
     """
     return run_prompted_rag(EXPLAIN_PROMPT, query)
 import os
-os.environ["SERPER_API_KEY"] = "c363c1a26cc95ffca7bdcb87ce3082bec12f4f27"
+os.environ["SERPER_API_KEY"] = ""
 from langchain_community.utilities import GoogleSerperAPIWrapper
 # from crewai.tools import BaseTool
 from crewai.tools import tool

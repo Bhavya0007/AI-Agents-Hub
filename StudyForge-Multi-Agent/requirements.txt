@@ -1,0 +1,15 @@
+streamlit
+crewai
+crewai-tools
+llama-index-llms-google-genai
+llama-index-embeddings-google-genai
+llama-index-llms-langchain
+langchain
+langchain-core
+langchain-google-genai
+openai
+markdown
+xhtml2pdf
+PyPDF2
+tiktoken
+pydantic

